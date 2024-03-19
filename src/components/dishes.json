@@ -2,7 +2,7 @@
     {
       "name": "Bruschetta",
       "price": 400,
-      "picture": "/assets/bruschetta.jpg"  ,  
+      "picture": "./assets/bruschetta.jpg"  ,  
       "type": "Starter"
     },
     {

@@ -18,7 +18,7 @@ export default function Frontabout({ onPageChange }) {
         <div>
             <div className='about-types'>
                 <div className='about-box'>
-                    <div className='about-img'><img src='../assets/frontabt.jpg' alt='front-food' /></div>
+                    <div className='about-img'><img src='./assets/frontabt.jpg' alt='front-food' /></div>
                     <div className='about-cnt'>
                         <div className='abt-cnt-head'><h2>Come and visit us</h2></div>
                         <div className='abt-cnt-phone'>

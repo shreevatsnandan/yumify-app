@@ -8,7 +8,7 @@ export default function Frontservices() {
         <div className='services'>
         <div className='service-type'>
                     <div className='service-type-logo'>
-                        <img src='../assets/cattering.jpg' alt='menu-logo' />
+                        <img src='./assets/cattering.jpg' alt='menu-logo' />
                     </div>
                     <div className='service-head'>Caterings</div>
                     <div className='service-disc'>
@@ -18,7 +18,7 @@ export default function Frontservices() {
 
                 <div className='service-type'>
                     <div className='service-type-logo'>
-                        <img src='../assets/birthday.jpg' alt='menu-logo' />
+                        <img src='./assets/birthday.jpg' alt='menu-logo' />
                     </div>
                     <div className='service-head'>Birthdays</div>
                     <div className='service-disc'>
@@ -27,7 +27,7 @@ export default function Frontservices() {
                 </div>
                 <div className='service-type'>
                     <div className='service-type-logo'>
-                        <img src='../assets/wedding.jpg' alt='menu-logo' />
+                        <img src='./assets/wedding.jpg' alt='menu-logo' />
                     </div>
                     <div className='service-head'>Weddings</div>
                     <div className='service-disc'>
@@ -36,7 +36,7 @@ export default function Frontservices() {
                 </div>
                 <div className='service-type'>
                     <div className='service-type-logo'>
-                        <img src='../assets/events.jpg' alt='menu-logo' />
+                        <img src='./assets/events.jpg' alt='menu-logo' />
                     </div>
                     <div className='service-head'>Events</div>
                     <div className='service-disc'>

@@ -21,7 +21,7 @@ export default function Frontmenu({ onPageChange }) {
             <div className='options'>
                 <div className='menu-type'>
                     <div className='menu-type-logo'>
-                        <img src='/assets/starters-logo.png' alt='menu-logo' />
+                        <img src='./assets/starters-logo.png' alt='menu-logo' />
                     </div>
                     <div className='option-head'>Starters</div>
                     <div className='option-disc'>
@@ -33,7 +33,7 @@ export default function Frontmenu({ onPageChange }) {
                 </div>
                 <div className='menu-type'>
                     <div className='menu-type-logo'>
-                        <img src='../assets/maincourse-logo.png' alt='menu-logo' />
+                        <img src='./assets/maincourse-logo.png' alt='menu-logo' />
                     </div>
                     <div className='option-head'>Main Coursre</div>
                     <div className='option-disc'>
@@ -45,7 +45,7 @@ export default function Frontmenu({ onPageChange }) {
                 </div>
                 <div className='menu-type'>
                     <div className='menu-type-logo'>
-                        <img src='../assets/drinks-logo.png' alt='menu-logo' />
+                        <img src='./assets/drinks-logo.png' alt='menu-logo' />
                     </div>
                     <div className='option-head'>Drinks</div>
                     <div className='option-disc'>
@@ -57,7 +57,7 @@ export default function Frontmenu({ onPageChange }) {
                 </div>
                 <div className='menu-type'>
                     <div className='menu-type-logo'>
-                        <img src='../assets/desert-logo.png' alt='menu-logo' />
+                        <img src='./assets/desert-logo.png' alt='menu-logo' />
                     </div>
                     <div className='option-head'>Deserts</div>
                     <div className='option-disc'>
