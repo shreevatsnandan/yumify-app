@@ -62,11 +62,6 @@ export default function Frontmenu({ onPageChange }) {
                     <div className='option-head'>Deserts</div>
                     <div className='option-disc'>
                     Sweet indulgence, a heavenly finale to a perfect meal, leaving a lingering taste of joy.
-
-
-
-
-
                     </div>
                     <div className='option-exp'>
                         <button onClick={() => scrollToTopAndChangePage('Menu')}>Explore Menu</button>

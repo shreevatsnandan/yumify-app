@@ -2,7 +2,7 @@
     {
       "name": "Bruschetta",
       "price": 400,
-      "picture": "https://shreevatsnandan.github.io/yumify-app/assets/bruschetta.jpg"  ,  
+      "picture": "./assets/bruschetta.jpg"  ,  
       "type": "Starter"
     },
     {

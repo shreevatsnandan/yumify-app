@@ -18,7 +18,7 @@ export default function Footer({ onPageChange }) {
       <div className='footer'>
         <div className='about-app'>
         <div className='app-name'>
-                <img src='../assets/app-logo.png' alt='logo' className='logo'/>Yumify
+                <img src='./assets/app-logo.png' alt='logo' className='logo'/>Yumify
             </div>
             <div className='about-app-txt'>Elevating your dining experience, one delivery at a time.</div>
 

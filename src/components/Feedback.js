@@ -27,7 +27,7 @@ const Feedback = () => {
             <div className='feedback-head'><h2>What our customers say</h2></div>
             <div className='feedback'>
                 <div className="rev-buttons">
-                    <button onClick={handlePrev}><div className='abt-cnt-logo'><img src='../assets/prev-logo.png' alt='prev-logo' /></div></button>
+                    <button onClick={handlePrev}><div className='abt-cnt-logo'><img src='./assets/prev-logo.png' alt='prev-logo' /></div></button>
                 </div>
                 <div className="card">
                     <div className='rev-img'><img src={reviews[currentIndex].profile_pic} alt="Profile" /></div>
@@ -35,7 +35,7 @@ const Feedback = () => {
                         <p>{reviews[currentIndex].comment}</p></div>
                 </div>
                 <div className="rev-buttons">
-                    <button onClick={handlePrev}><div className='abt-cnt-logo'><img src='../assets/next-logo.png' alt='next-logo' /></div></button>
+                    <button onClick={handlePrev}><div className='abt-cnt-logo'><img src='./assets/next-logo.png' alt='next-logo' /></div></button>
                 </div>
             </div>
         </div>
