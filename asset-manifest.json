@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yumify-app/static/css/main.819708d4.css",
+    "main.js": "/yumify-app/static/js/main.b5d8bb2f.js",
+    "static/js/453.e4feef68.chunk.js": "/yumify-app/static/js/453.e4feef68.chunk.js",
+    "static/media/home-bg.jpg": "/yumify-app/static/media/home-bg.126dbc3a9e9a95011ab2.jpg",
+    "static/media/reservation-book.jpg": "/yumify-app/static/media/reservation-book.c8d75ced028e2a503561.jpg",
+    "index.html": "/yumify-app/index.html",
+    "main.819708d4.css.map": "/yumify-app/static/css/main.819708d4.css.map",
+    "main.b5d8bb2f.js.map": "/yumify-app/static/js/main.b5d8bb2f.js.map",
+    "453.e4feef68.chunk.js.map": "/yumify-app/static/js/453.e4feef68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.819708d4.css",
+    "static/js/main.b5d8bb2f.js"
+  ]
+}
